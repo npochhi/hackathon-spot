@@ -1,1 +1,2 @@
 bosdyn-client
+cv2
