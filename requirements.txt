@@ -1,2 +1,2 @@
 bosdyn-client
-cv2
+opencv-python
